@@ -1,0 +1,1 @@
+{"/_app":"pages/_app.js","/_error":"pages/_error.js","/auth/login":"pages/auth/login.html","/auth/register":"pages/auth/register.html","/books":"pages/books.html","/books/upload":"pages/books/upload.html","/chat/[bookId]":"pages/chat/[bookId].html","/guides/[bookId]":"pages/guides/[bookId].html","/_document":"pages/_document.js","/404":"pages/404.html"}
